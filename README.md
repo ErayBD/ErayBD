@@ -6,7 +6,7 @@ I'm Eray Berk Dalkıran - A Computer Engineering Sophomore Student at Gazi Unive
 
 🔭 I’m currently working on small projects in the languages i'm learning and game developing on Unreal Engine
 
-📫 How to reach me: erayberkdalkiran@hotmail.com
+📫 How to reach me: erayberkdalkiran@gmail.com
 
 ⚡ Fun fact: I have a Challenger Backpack from LoL
 
