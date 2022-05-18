@@ -2,13 +2,11 @@ Hello World! 👋
 
 I'm Eray Berk Dalkıran - A Computer Engineering, Sophomore Student at Gazi University
 
-🌱 I’m currently learning Solidity, Javascript, Blender
+🌱 I’m currently learning Solidity, Javascript and C#.
 
 🔭 I’m currently working on Gazi Üniversitesi Blockchain Topluluğu (Gazi University Blockchain Community) as a founder member.
 
 📫 How to reach me: erayberkdalkiran@gmail.com
-
-/*⚡ Fun fact: I have a Challenger Backpack from LoL*/
 
 <!--
 **ErayBD/ErayBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
