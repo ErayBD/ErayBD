@@ -34,6 +34,7 @@
 <a href="https://instagram.com/erayberkdalkiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erayberkdalkiran" height="30" width="40" /></a>
 <a href="https://medium.com/@eraybd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eraybd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/eraybd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eraybd" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ErayBD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 </p>
 
 </br>
