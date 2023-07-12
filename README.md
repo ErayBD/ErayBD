@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Eray Berk DALKIRAN  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">A third-year undergraduate from Gazi University, Computer Science and Engineering</h2>
+<h2 align="center">A fourth-grade undergraduate from Gazi University, Computer Science and Engineering</h2>
 <h3 align="center">Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.</h3>
 
 <br>
