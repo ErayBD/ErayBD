@@ -22,8 +22,8 @@
 <p>🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/erayberkdalkiran/">LinkedIn Page</a></p><br>
 
 <h2>⚡️ Fun Facts</h2>
-<p>⚔️ Two swords and a hammer. I found them during my visits to Middle Earth and Asgard. I hope the owners don't mind. My next stop? Maybe Hogwarts for a wand! Or maybe Narnia for Turkish delight? Hmm, hard to decide.</p>
-<img src="https://github.com/ErayBD/ErayBD/assets/71061070/9c70e2aa-5e13-48e0-bb83-1a7d3f2e1e1f" width ="600" align="center"><br><br>
+<p>⚔️ Two swords and a hammer. I found them during my visits to Middle Earth and Asgard. I hope the owners don't mind. My next stop? Maybe Hogwarts for a wand... or Narnia for Turkish delight? Hmm, hard to decide.</p>
+<img src="https://github.com/ErayBD/ErayBD/assets/71061070/6018b6f7-9190-40d9-8e7a-0424df4c4bb8" width ="600" align="center"><br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -41,6 +41,10 @@
 <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" align="center">  Languages and Tools:</h3>
 
 <p align="center">
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40""> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40""> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40""> </a>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40""> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40""> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
