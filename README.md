@@ -16,7 +16,7 @@
 <p>💪 <b>IntelliFit Trainer:</b> <a href="https://github.com/ErayBD/intellifit-trainer">IntelliFit Trainer Repository</a></p>
 <p>🏷️ <b>Description:</b> An AI-powered Android app that helps users maintain correct posture during exercise using real-time motion tracking and feedback.
                           This app makes fitness accessible and affordable, allowing safe and effective workouts at home without a personal trainer.</p>
-<img src="https://github.com/ErayBD/ErayBD/assets/71061070/bd84d5b7-0c62-4410-a392-5782d16cc71a" width ="200" align="center"><br>
+<img src="https://github.com/ErayBD/ErayBD/assets/71061070/bd84d5b7-0c62-4410-a392-5782d16cc71a" width ="250" align="center"><br>
 
 <h2>📬 /contact</h2>
 <p>📧 <b>E-mail:</b> <a href="mailto:erayberkdalkiran@gmail.com">erayberkdalkiran@gmail.com</a></p>
