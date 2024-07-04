@@ -1,8 +1,9 @@
 <h1 align="center">Hi there! I'm Eray  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">I am a senior Computer Science and Engineering student at Gazi University</h2>
-<!--
-<h3 align="center">Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time,<br>and high-quality product spirit. Self and quick learner, self-motivated, and social</h3> 
--->
+<h2 align="center">BSc in Computer Engineering from Gazi University</h2>
+
+<p align="left">I have a deep passion for mobile application development and computer vision. I enjoy creating innovative Android applications, which drives me to constantly explore new technologies and techniques. I thrive on the challenges and opportunities that come with mobile app development, continuously striving to enhance user experiences and deliver high-quality solutions. My portfolio reflects a diverse range of applications, each demonstrating my commitment to excellence and my ability to adapt to the ever-evolving landscape of technology.</p> 
+<p align="left">Beyond my technical expertise, I am a bodybuilder, classical guitarist, landscape photographer, and an avid explorer of various interests! I particularly love diving into the thrilling worlds of Stephen King's horror novels and exploring the cosmos through Carl Sagan's books on space and the universe. Additionally, I find great value and pleasure in reading personal development books.</p> 
+
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eraybd&label=Profile%20views&color=0e75b6&style=flat" alt="eraybd" /> </p>
@@ -14,17 +15,19 @@
 
 <br><br><br>
 
-<ul>
-  <li>💪 I’m currently working on <b>a computer vision project</b></li>
-  <li>🧐 I’m currently learning the fundamentals of <b>AI, ML and DL</b></li>
-  <li>👨‍💻 Most of my projects are available on <b><a href="https://github.com/ErayBD?tab=repositories">My Repo</a></b></li>
-  <li>📫 How to reach me <b><a href="mailto:erayberkdalkiran@gmail.com">erayberkdalkiran@gmail.com</a></b></li>
-  <li>🔭 More about me? Check my <b><a href="https://bio.link/eraybd">bio.link</a></b></li>
-</ul>
+  💪 I’m currently working on a computer vision project.
+  
+  🧐 I’m currently learning the fundamentals of AI, ML and DL
+  
+  👨‍💻 Most of my projects are available on <a href="https://github.com/ErayBD?tab=repositories">My Repo</a>
+  
+  📫 How to reach me <a href="mailto:erayberkdalkiran@gmail.com">erayberkdalkiran@gmail.com</a>
+  
+  🔭 More about me? Check my <a href="https://bio.link/eraybd">bio.link</a>
+
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
 
 <h3 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80" align="center">Connect with me:</h3>
 
