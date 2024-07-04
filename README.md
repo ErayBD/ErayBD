@@ -3,23 +3,27 @@
 
 <p align="left">I have a deep passion for mobile application development and computer vision. I enjoy creating innovative Android applications, which drives me to constantly explore new technologies and techniques. When I'm not working on apps, I am a bodybuilder, classical guitarist, landscape photographer, and an avid explorer of various interests!</p><br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=eraybd&label=Profile%20views&color=0e75b6&style=flat" alt="eraybd" /></p><br>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=eraybd&label=Profile%20views&color=0e75b6&style=flat"></p><br>
+<p align="center"><img height="200" width="400" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRodWJ5bnN6aGhjeTIyZ205cmtzejB0bTBsNDJoajNxMjgyaDJneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/35B7yZVrtv2dAXCgcC/giphy.gif"></p><br>
 
-  <h2>📌 /root</h2>
-  <p>🔍 <b>Working on:</b> A computer vision project</p>
-  <p>📚 <b>Learning:</b> Python, Kotlin, OpenCV and NLP</p>
-  <p>🛠️ <b>Tools:</b> Git, Trello, Figma and Firebase</p><br>
-      <img align="right" height="200" width="400" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRodWJ5bnN6aGhjeTIyZ205cmtzejB0bTBsNDJoajNxMjgyaDJneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/35B7yZVrtv2dAXCgcC/giphy.gif">
-  
-  <h2>🚀 /top-project</h2>
-  <p>💪 <b>IntelliFit Trainer:</b> <a href="https://github.com/ErayBD/intellifit-trainer">IntelliFit Trainer Repository</a></p>
-  <p>🏷️ <b>Description:</b> An AI-powered Android app that helps users maintain correct posture during exercise using real-time motion tracking and feedback.
-    This app makes fitness accessible and affordable, allowing safe and effective workouts at home without a personal trainer.</p><br>
+<h2>📌 /root</h2>
+<p>🔍 <b>Working on:</b> A computer vision project</p>
+<p>📚 <b>Learning:</b> Python, Kotlin, OpenCV and NLP</p>
+<p>🛠️ <b>Tools:</b> Git, Trello, Figma and Firebase</p><br>
 
-  
-  <h2>📬 /contact</h2>
-  <p>📧 <b>E-mail:</b> <a href="mailto:erayberkdalkiran@gmail.com">erayberkdalkiran@gmail.com</a>
-  <p>🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/erayberkdalkiran/">LinkedIn Page</a></p>
+
+<h2>🚀 /top-project</h2>
+<p>💪 <b>IntelliFit Trainer:</b> <a href="https://github.com/ErayBD/intellifit-trainer">IntelliFit Trainer Repository</a></p>
+<p>🏷️ <b>Description:</b> An AI-powered Android app that helps users maintain correct posture during exercise using real-time motion tracking and feedback.
+                          This app makes fitness accessible and affordable, allowing safe and effective workouts at home without a personal trainer.</p><br>
+
+<h2>📬 /contact</h2>
+<p>📧 <b>E-mail:</b> <a href="mailto:erayberkdalkiran@gmail.com">erayberkdalkiran@gmail.com</a></p>
+<p>🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/erayberkdalkiran/">LinkedIn Page</a></p><br>
+
+<h2>⚡️ Fun Facts</h2>
+<p>⚔️ Two swords and a hammer. I found them during my visits to Middle Earth and Asgard. I hope the owners don't mind. My next stop? Maybe Hogwarts for a wand! Or maybe Narnia for Turkish delight? Hmm, hard to decide.</p>
+<img src="https://github.com/ErayBD/ErayBD/assets/71061070/9c70e2aa-5e13-48e0-bb83-1a7d3f2e1e1f" width ="600" align="center"><br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -34,9 +38,7 @@
 
 <br>
 
-<h3 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" align="center">  Languages and Tools:
-</h3>
+<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" align="center">  Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40""> </a>
