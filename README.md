@@ -17,7 +17,7 @@
 <p>🏷️ <b>Description:</b> An AI-powered Android app that helps users maintain correct posture during exercise using real-time motion tracking and feedback.
                           This app makes fitness accessible and affordable, allowing safe and effective workouts at home without a personal trainer.</p><br>
 
-<img src="https://github.com/ErayBD/ErayBD/assets/71061070/bd84d5b7-0c62-4410-a392-5782d16cc71a" width ="250" align="center">
+<img src="https://github.com/ErayBD/ErayBD/assets/71061070/bd84d5b7-0c62-4410-a392-5782d16cc71a" width ="300" align="center">
 
 
 
