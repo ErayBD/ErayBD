@@ -5,22 +5,21 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=eraybd&label=Profile%20views&color=0e75b6&style=flat" alt="eraybd" /></p><br>
 
-  <h2>📌 Focus</h2>
+  <h2>📌 /root</h2>
   <p>🔍 <b>Working on:</b> A computer vision project</p>
   <p>📚 <b>Learning:</b> Python, Kotlin, OpenCV and NLP</p>
   <p>🛠️ <b>Tools:</b> Git, Trello, Figma and Firebase</p><br>
+      <img align="right" height="200" width="400" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRodWJ5bnN6aGhjeTIyZ205cmtzejB0bTBsNDJoajNxMjgyaDJneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/35B7yZVrtv2dAXCgcC/giphy.gif">
   
-  <h2>🚀 Top Project</h2>
+  <h2>🚀 /top-project</h2>
   <p>💪 <b>IntelliFit Trainer:</b> <a href="https://github.com/ErayBD/intellifit-trainer">IntelliFit Trainer Repository</a></p>
-  <p>📈 <b>Description:</b> An AI-powered Android app that helps users maintain correct posture during exercise using real-time motion tracking and feedback. This app makes fitness accessible and affordable, allowing safe and effective workouts at home without a personal trainer.</p><br>
+  <p>🏷️ <b>Description:</b> An AI-powered Android app that helps users maintain correct posture during exercise using real-time motion tracking and feedback.
+    This app makes fitness accessible and affordable, allowing safe and effective workouts at home without a personal trainer.</p><br>
+
   
-  <h2>📬 Contact</h2>
+  <h2>📬 /contact</h2>
   <p>📧 <b>E-mail:</b> <a href="mailto:erayberkdalkiran@gmail.com">erayberkdalkiran@gmail.com</a>
   <p>🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/erayberkdalkiran/">LinkedIn Page</a></p>
-
-  🔭 More about me? Check my <a href="https://bio.link/eraybd">bio.link</a>
-  
-<br><br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
