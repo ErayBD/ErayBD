@@ -1,9 +1,7 @@
 <h1 align="center">Hi there! I'm Eray  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center">BSc in Computer Engineering from Gazi University</h2>
 
-<p align="left">I have a deep passion for mobile application development and computer vision. I enjoy creating innovative Android applications, which drives me to constantly explore new technologies and techniques. I thrive on the challenges and opportunities that come with mobile app development, continuously striving to enhance user experiences and deliver high-quality solutions.</p> 
-<p align="left">Beyond my technical expertise, I am a bodybuilder, classical guitarist, landscape photographer, and an avid explorer of various interests!</p> 
-
+<p align="left">I have a deep passion for mobile application development and computer vision. I enjoy creating innovative Android applications, which drives me to constantly explore new technologies and techniques. Beyond my technical expertise, I am a bodybuilder, classical guitarist, landscape photographer, and an avid explorer of various interests.</p> 
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eraybd&label=Profile%20views&color=0e75b6&style=flat" alt="eraybd" /> </p>
