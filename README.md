@@ -1,30 +1,27 @@
 <h1 align="center">Hi there! I'm Eray  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center">BSc in Computer Engineering from Gazi University</h2>
 
-<p align="left">I have a deep passion for mobile application development and computer vision. I enjoy creating innovative Android applications, which drives me to constantly explore new technologies and techniques. Beyond my technical expertise, I am a bodybuilder, classical guitarist, landscape photographer, and an avid explorer of various interests.</p> 
+<p align="left">I have a deep passion for mobile application development and computer vision. I enjoy creating innovative Android applications, which drives me to constantly explore new technologies and techniques. When I'm not working on apps, I am a bodybuilder, classical guitarist, landscape photographer, and an avid explorer of various interests!</p><br>
 
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eraybd&label=Profile%20views&color=0e75b6&style=flat" alt="eraybd" /> </p>
-<br>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=eraybd&label=Profile%20views&color=0e75b6&style=flat" alt="eraybd" /></p><br>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+  <h2>📌 Focus</h2>
+  <p>🔍 <b>Working on:</b> A computer vision project</p>
+  <p>📚 <b>Learning:</b> Python, Kotlin, OpenCV and NLP</p>
+  <p>🛠️ <b>Tools:</b> Git, Trello, Figma and Firebase</p><br>
+  
+  <h2>🚀 Top Project</h2>
+  <p>💪 <b>IntelliFit Trainer:</b> <a href="https://github.com/ErayBD/intellifit-trainer">IntelliFit Trainer Repository</a></p>
+  <p>📈 <b>Description:</b> An AI-powered Android app that helps users maintain correct posture during exercise using real-time motion tracking and feedback. This app makes fitness accessible and affordable, allowing safe and effective workouts at home without a personal trainer.</p><br>
+  
+  <h2>📬 Contact</h2>
+  <p>📧 <b>E-mail:</b> <a href="mailto:erayberkdalkiran@gmail.com">erayberkdalkiran@gmail.com</a>
+  <p>🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/erayberkdalkiran/">LinkedIn Page</a></p>
 
+  🔭 More about me? Check my <a href="https://bio.link/eraybd">bio.link</a>
+  
 <br><br><br>
 
-  💪 I’m currently working on a computer vision project.
-  
-  🧐 I’m currently learning the fundamentals of AI, ML and DL
-  
-  👨‍💻 Most of my projects are available on <a href="https://github.com/ErayBD?tab=repositories">My Repo</a>
-  
-  📫 How to reach me <a href="mailto:erayberkdalkiran@gmail.com">erayberkdalkiran@gmail.com</a>
-  
-  🔭 More about me? Check my <a href="https://bio.link/eraybd">bio.link</a>
-
-
-<br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80" align="center">Connect with me:</h3>
