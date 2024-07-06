@@ -13,7 +13,7 @@
 
 
 <h2>🚀 /top-project</h2>
-<p>💪 <b>IntelliFit Trainer:</b> <a href="https://github.com/ErayBD/intellifit-trainer">IntelliFit Trainer Repository</a></p>
+<p>💪 <b>IntelliFit Trainer:</b> <a href="https://github.com/ErayBD/intellifit-trainer">Project Repository</a></p>
 <p>🏷️ <b>Description:</b> An AI-powered Android app that helps users maintain correct posture during exercise using real-time motion tracking and feedback.
                           This app makes fitness accessible and affordable, allowing safe and effective workouts at home without a personal trainer.</p>
 <img src="https://github.com/ErayBD/ErayBD/assets/71061070/bd84d5b7-0c62-4410-a392-5782d16cc71a" width ="250" align="center"><br>
@@ -22,8 +22,8 @@
 <p>📧 <b>E-mail:</b> <a href="mailto:erayberkdalkiran@gmail.com">erayberkdalkiran@gmail.com</a></p>
 <p>🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/erayberkdalkiran/">LinkedIn Page</a></p><br>
 
-<h2>⚡️ Fun Facts</h2>
-<p>⚔️ Two swords and a hammer. I found them during my visits to Middle Earth and Asgard. I hope the owners don't mind. My next stop? Maybe Hogwarts for a wand... or Narnia for Turkish delight? Hmm, hard to decide.</p>
+<h2>⚡️ Fun Fact</h2>
+<p>⚔️ Two swords and a hammer... souvenirs from my little adventures in Middle Earth and Asgard. Hopefully, the owners won’t be too mad — especially the big guy with the hammer! I don’t fancy a trip to Asgard's dungeons. Anyway. Next on my bucket list? Maybe a wand from Hogwarts... or some Turkish delight from Narnia. Oh, the choices we have!</p>
 <img src="https://github.com/ErayBD/ErayBD/assets/71061070/6018b6f7-9190-40d9-8e7a-0424df4c4bb8" width ="600" align="center"><br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -45,7 +45,7 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40""> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40""> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40""> </a>
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40""> </a>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/pocoo_flask/images/1d3304cb-4d91-4551-9d5f-121e6ef8af60.svg" alt="flask" width="40" height="40""> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40""> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
@@ -58,6 +58,7 @@
   <a href="https://www.w3.org/html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
