@@ -22,7 +22,7 @@
 <p>📧 <b>E-mail:</b> <a href="mailto:erayberkdalkiran@gmail.com">erayberkdalkiran@gmail.com</a></p>
 <p>🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/erayberkdalkiran/">LinkedIn Page</a></p><br>
 
-<h2>⚡️ Fun Fact</h2>
+<h2>⚡️ /fun-fact</h2>
 <p>⚔️ Two swords and a hammer... souvenirs from my little adventures in Middle Earth and Asgard. Hopefully, the owners won’t be too mad — especially the big guy with the hammer! I don’t fancy a trip to Asgard's dungeons. Anyway. Next on my bucket list? Maybe a wand from Hogwarts... or some Turkish delight from Narnia. Oh, the choices we have!</p>
 <img src="https://github.com/ErayBD/ErayBD/assets/71061070/6018b6f7-9190-40d9-8e7a-0424df4c4bb8" width ="600" align="center"><br><br>
 
