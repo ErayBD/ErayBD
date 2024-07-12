@@ -8,9 +8,8 @@
 
 <h2>📌 /root</h2>
 <p>🔍 <b>Working on:</b> A computer vision project</p>
-<p>📚 <b>Learning:</b> Python, Kotlin, OpenCV and NLP</p>
+<p>📚 <b>Learning:</b> Python, Kotlin, TensorFlow, ML and DL</p>
 <p>🛠️ <b>Tools:</b> Git, Trello, Figma and Firebase</p><br>
-
 
 <h2>🚀 /top-project</h2>
 <p>💪 <b>IntelliFit Trainer:</b> <a href="https://github.com/ErayBD/intellifit-trainer">Project Repository</a></p>
@@ -22,7 +21,7 @@
 <p>🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/erayberkdalkiran/">LinkedIn Page</a></p><br>
 
 <h2>⚡️ /fun-fact</h2>
-<p>⚔️ Two swords and a hammer... souvenirs from my little adventures in Middle Earth and Asgard. Hopefully, the owners won’t be too mad — especially the big guy with the hammer! I don’t fancy a trip to Asgard's dungeons. Anyway. Next on my bucket list? Maybe a wand from Hogwarts... or some Turkish delight from Narnia. Oh, the choices we have!</p>
+<p>⚔️ Two swords and a hammer... souvenirs from my little adventures in Middle Earth and Asgard. Hopefully, the owners won’t be too mad — especially the big guy with the hammer, I don’t fancy a trip to Asgard's dungeons! Anyway. Next on my bucket list? Maybe a wand from Hogwarts... or some Turkish delight from Narnia. Oh, the choices we have!</p>
 <img src="https://github.com/ErayBD/ErayBD/assets/71061070/6018b6f7-9190-40d9-8e7a-0424df4c4bb8" width ="600" align="center"><br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
