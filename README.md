@@ -1,14 +1,14 @@
 <h1 align="center">Hi there! I'm Eray  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center">BSc in Computer Engineering from Gazi University</h2>
 
-<p align="left">I have a deep passion for mobile application development and computer vision. I enjoy creating innovative Android applications, which drives me to constantly explore new technologies and techniques. When I'm not working on apps, I am a bodybuilder, classical guitarist, landscape photographer, and an avid explorer of various interests!</p><br>
+<p align="left">I have a deep passion for mobile application development and computer vision. I enjoy creating innovative Android applications, which drives me to constantly explore new technologies and techniques. I thrive on the challenges and opportunities that come with mobile app development, continuously striving to enhance user experiences and deliver high-quality solutions. When I'm not working on apps, I am dedicated to bodybuilding, classical guitar, landscape photography, and exploring a variety of interests! I particularly enjoy diving into thrilling novels and exploring the cosmos through books on space and the universe. I also have a keen interest in topics related to science, art, and technology.</p><br>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=eraybd&label=Profile%20views&color=0e75b6&style=flat"></p><br>
 <p align="center"><img height="200" width="400" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRodWJ5bnN6aGhjeTIyZ205cmtzejB0bTBsNDJoajNxMjgyaDJneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/35B7yZVrtv2dAXCgcC/giphy.gif"></p><br>
 
 <h2>📌 /root</h2>
 <p>🔍 <b>Working on:</b> A computer vision project</p>
-<p>📚 <b>Learning:</b> Python, Kotlin, TensorFlow, ML and DL</p>
+<p>📚 <b>Learning:</b> Python, Kotlin, TensorFlow and ML</p>
 <p>🛠️ <b>Tools:</b> Git, Trello, Figma and Firebase</p><br>
 
 <h2>🚀 /top-project</h2>
